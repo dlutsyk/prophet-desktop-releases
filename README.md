@@ -4,7 +4,7 @@
 
 A standalone alternative to the **Prophet VS Code extension** and the **JetBrains SFCC plugin** — no editor required.
 
-<img width="1346" height="876" alt="Screenshot 2026-05-29 at 21 43 24" src="https://github.com/user-attachments/assets/f01d1982-ac1a-4811-a7e6-92d308c93cfb" />
+<img width="1346" height="876" alt="Screenshot 2026-05-29 at 21 43 24" src="https://github.com/user-attachments/assets/89e96832-5fb2-4806-a810-29cc27e7e045" />
 
 This repository hosts the **published releases and the auto-update feed**. To use the app, download an installer from the [Releases](../../releases/latest) page below.
 
