@@ -55,8 +55,6 @@ SFCC developers who juggle multiple sandboxes and want one fast, transparent, se
 
 Prophet Desktop is **local-first**. Your credentials are stored in your OS keychain (never in plaintext config), and your code goes straight from your machine to your SFCC instance — there is no cloud middleman, no telemetry, and no account to create.
 
-Built on Electron with hardened defaults: `contextIsolation: true`, `nodeIntegration: false`, `sandbox: true`.
-
 ---
 
 ## Support
