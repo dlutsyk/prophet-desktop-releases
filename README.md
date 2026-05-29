@@ -1,4 +1,4 @@
-# Prophet Desktop
+# Prophet Desktop (Alpha)
 
 > A cross-platform desktop app for **Salesforce B2C Commerce (SFCC)** developers. Watch your local cartridge folders and Prophet Desktop auto-uploads every change to your sandbox the moment you hit save — write code in any editor, keep the server in sync in the background.
 
